@@ -19,8 +19,8 @@ if (file_exists('config.php')) {
 
 // Project constants
 define('PROJECT_NAME', 'halo');
-define('PROJECT_NATIVE_LANGUAGE', 'en');
-define('DEFAULT_CONTROLLER', 'welcome');
+define('PROJECT_NATIVE_LANGUAGE', 'xx');
+define('DEFAULT_CONTROLLER', 'rentals');
 
 // Load app
 require 'system/classes/Application.php';
